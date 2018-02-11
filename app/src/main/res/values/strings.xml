@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="action_settings">Configuración</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="prueba">Texto de prueba</string>
+    <string name="mensaje">Personalización</string>
+    <string name="seccion_but">Botón %1$d</string>
+</resources>
